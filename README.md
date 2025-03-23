@@ -52,5 +52,3 @@ This challenge is part of the #DrGViswanathan challenge, encouraging us to prepa
 ---
 
 **"The best way to predict the future is to create it." – Peter Drucker**
-
-#100DaysMLChallenge #MachineLearning #NLP #GenAI #MLOps #VIT
