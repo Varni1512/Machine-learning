@@ -10,9 +10,9 @@ A huge thanks to **Shriram Sir** for the motivational email that sparked this jo
 ## 🎯 Goals
 - **Learn ML from Scratch**: Go from zero knowledge to advanced topics in 100 days.
 - **Focus Areas**:
-  - **Days 1-30**: Basics (Python for ML,Mathematics, data preprocessing, visualization).
-  - **Days 31-60**: NLP (Natural Language Processing) and GenAI (Generative AI).
-  - **Days 61-100**: MLOps (deploying models) and end-to-end ML projects.
+  - Basics (Python for ML,Mathematics, data preprocessing, visualization).
+  - NLP (Natural Language Processing) and GenAI (Generative AI).
+  - MLOps (deploying models) and end-to-end ML projects.
 - **Build Projects**: Create practical ML projects (e.g., chatbots, text generators).
 - **Contribute to Open Source**: Give back to the ML community.
 - **Document Progress**: Share daily/weekly updates, code, and learnings here.
