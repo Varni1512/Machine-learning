@@ -1,0 +1,6 @@
+Date,Event,Year,Month,Day,Weekday,Next Day,Previous Week,Days Until Event
+2025-03-01,Meeting,2025,3,1,Saturday,2025-03-02,2025-02-22,0
+2025-03-15,Project Deadline,2025,3,15,Saturday,2025-03-16,2025-03-08,14
+2025-04-10,Conference,2025,4,10,Thursday,2025-04-11,2025-04-03,40
+2025-04-20,Workshop,2025,4,20,Sunday,2025-04-21,2025-04-13,50
+2025-05-01,Hackathon,,,,,,,61
